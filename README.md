@@ -1,5 +1,23 @@
 # Step_semester_3
 
+## Date: 06-09-2026
+**Today's Work:**
+- Completed Session 3 class problems.
+- Completed Session 3 assignment problems.
+- Organized Java programs into `class_problems` and `assigment_problems`.
+- Added the Session 3 work under the required `src/main/java/oop` structure.
+
+**Next Session Plan:**
+- Continue with the next set of Java problems.
+- Practice and improve problem-solving skills.
+
+**Issues Faced:**
+- Faced an issue while creating and accessing the `feature/session_3` branch.
+- Corrected the project folder structure and successfully pushed the Session 3 work to GitHub.
+
+---
+
+
 ## Date: 05-09-2026
 **Today's Work:**
 - Completed Session 2 class problems.
