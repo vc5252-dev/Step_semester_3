@@ -1,5 +1,22 @@
 # Step_semester_3
 
+## Date: 13-09-2026
+**Today's Work:**
+- Completed Session 5 class problems.
+- Completed Session 5 assignment problems.
+- Practiced access modifiers, encapsulation, JavaBeans, immutability, and object-oriented design.
+- Added the Session 5 work under the required `src/main/java/oop` structure.
+
+**Next Session Plan:**
+- Continue with the next set of Java problems.
+- Practice and improve object-oriented programming concepts.
+
+**Issues Faced:**
+- Faced an issue while organizing the Session 5 files in the required folder structure.
+- Corrected the structure and successfully pushed the Session 5 work to GitHub.
+
+---
+
 
 ## Date: 12-09-2026
 **Today's Work:**
