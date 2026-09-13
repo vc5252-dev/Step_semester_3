@@ -1,0 +1,5 @@
+class MembershipFieldReachChecker {
+ static String classifyAccess(String m,String c){if(m.equals("private"))return c.equals("SAME_CLASS")?"ALLOWED":"DENIED";if(m.equals("default"))return(c.equals("SAME_CLASS")||c.equals("SAME_PACKAGE"))?"ALLOWED":"DENIED";if(m.equals("protected"))return(c.equals("SAME_CLASS")||c.equals("SAME_PACKAGE"))?"ALLOWED":"DENIED";if(m.equals("public"))return"ALLOWED";return"DENIED";}
+ static String summarizeByModifier(String[][] a){String[] ms={"private","default","protected","public"};StringBuilder r=new StringBuilder();for(String m:ms){int x=0,y=0;for(String[] z:a)if(z[0].equals(m))if(classifyAccess(z[0],z[1]).equals("ALLOWED"))x++;else y++;if(r.length()>0)r.append(" | ");r.append(m+": "+x+" allowed / "+y+" denied");}return r.toString();}
+ public static void main(String[] args){String[][] a={{"private","SAME_CLASS"},{"private","SAME_PACKAGE"},{"default","SAME_PACKAGE"},{"protected","SAME_PACKAGE"},{"protected","SAME_CLASS"},{"public","DIFFERENT_PACKAGE"}};System.out.println(summarizeByModifier(a));}
+}
