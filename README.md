@@ -1,5 +1,21 @@
 # Step_semester_3
 
+## Date: 18-09-2026
+**Today's Work:**
+- Completed Session 6 class problems.
+- Completed Session 6 assignment problems.
+- Organized Java programs into `class_problems` and `assigment_problems`.
+- Added the Session 6 work under the required `src/main/java/oop` structure.
+
+**Next Session Plan:**
+- Continue with the next set of Java problems.
+- Practice and improve problem-solving skills.
+
+**Issues Faced:**
+- Faced no major issues while completing Session 6.
+
+---
+
 ## Date: 13-09-2026
 **Today's Work:**
 - Completed Session 5 class problems.
