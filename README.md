@@ -115,3 +115,19 @@
 - Corrected the package declarations and successfully compiled and ran the Session 7 programs.
 
 ---
+## Date: 08-10-2026
+**Today's Work:**
+- Completed Session 8 class problems.
+- Completed Session 8 assignment problems.
+- Organized Java programs into `class_problems` and `assigment_problems`.
+- Added the Session 8 work under the required `src/main/java/oop` structure.
+
+**Next Session Plan:**
+- Continue with the next set of Java problems.
+- Practice and improve problem-solving skills.
+
+**Issues Faced:**
+- Faced an issue while running Java programs due to the package structure.
+- Corrected the way the programs were compiled and executed using the full package name.
+
+---
