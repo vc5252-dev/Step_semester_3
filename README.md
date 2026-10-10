@@ -131,3 +131,20 @@
 - Corrected the way the programs were compiled and executed using the full package name.
 
 ---
+## Date: 10-10-2026
+
+**Today's Work:**
+- Completed Session 9 class problems.
+- Completed Session 9 assignment problems.
+- Organized Java programs into `class_problems` and `assigment_problems`.
+- Added the Session 9 work under the required `src/main/java/data_structures` structure.
+
+**Next Session Plan:**
+- Continue with the next set of Data Structures problems.
+- Practice and improve problem-solving skills.
+
+**Issues Faced:**
+- Faced an issue while running Java programs due to the package structure.
+- Corrected the way the programs were compiled and executed using the full package name.
+
+---
